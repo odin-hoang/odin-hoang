@@ -26,7 +26,7 @@ I am currently a student at the University of Information Technology, where I am
 
 ## Connect with Me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/khaifade/)
+- LinkedIn: [Hoàng Quang Khải](https://www.linkedin.com/in/khaifade/)
 
 
 <!--
