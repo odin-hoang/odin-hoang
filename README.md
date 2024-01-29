@@ -13,6 +13,7 @@ I am currently a student at the University of Information Technology, where I am
 - 💻 Languages: Js, Ts, Python, C/C++ 
 - 🛠️ Tools & Technologies: HTML5, CSS3, JavaScript, TypeScript, Git, GitHub
 - 🌐 Web Development: ReactJS, Django, ExpressJS, MySQL, MongoDB
+- 🤖 Machine Learning: Tensorflow, PyTorch, scikit-learn
 
 ## Projects
 
