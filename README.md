@@ -6,7 +6,7 @@ I am currently a student at the University of Information Technology, where I am
 
 - 🌱 I’m currently learning Deep Learning.
 - 👯 I’m looking to collaborate on Web3.
-- 📫 How to reach me: uka.pgr@gmail.com.
+- 📫 How to reach me: khaifade.dev@gmail.com.
 
 ## Tech Stack
 
