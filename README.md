@@ -5,7 +5,7 @@
 I am currently a student at the University of Information Technology, where I am pursuing a degree in Computer Science. I have a strong passion for creating web applications and I particularly enjoy utilizing machine learning in practical, real-world scenarios.
 
 - 🌱 I’m currently learning Deep Learning.
-- 👯 I’m looking to collaborate on Web3.
+- 👯 I’m looking to collaborate on [LearnWeb3](https://learnweb3.io/u/Khaifade/). 
 - 📫 How to reach me: khaifade.dev@gmail.com.
 
 ## Tech Stack
